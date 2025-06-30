@@ -1,5 +1,7 @@
 # Excel_Project-Data_Analytics
 
+This was a Guided Project in an Excel Course by:
+* Luke Barousse https://youtu.be/pCJ15nGFgVg?si=Tv6-n0Q1CveAhaQn
 
 ## Salary Dashboard
 This data jobs salary dashboard showcases the Salary of different Data Science Careers and helps job seekers to find their desired roles and their salary.
@@ -11,7 +13,7 @@ This data jobs salary dashboard showcases the Salary of different Data Science C
 
 
 ## Salary Analysis
-It explores the demanding skills in Data Science Carrers, what are the optimal skills you should prioritize to learn and also uncovers the pay grade according to the number of skills.
+This analysis finds high in-demand jobs and skills in Data Carrer. It helps job seekers to set their carrer paths and the skills they should prioritize to stand-out in the Job Market. And what salary to except according to the skills.
 
 [Checkout my work here](/Project_2-Analysis)
 
