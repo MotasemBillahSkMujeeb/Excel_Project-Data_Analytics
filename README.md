@@ -2,5 +2,5 @@
 My project demonstrating my Excel Skills
 
 ## Salary Dashboard
-[1_Salary Dashboard Final Dashboard](/Resources/1_Salary_Dashboard_Final_Dashboard.gif)
+[1_Salary Dashboard Final Dashboard](/Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
